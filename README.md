@@ -1,4 +1,4 @@
-# software-engineering-CPSC-362-
+# software-engineering-CPSC-362-Notes
 Notes repository for CPSC 362 Software Engineering course with Dr. Christopher Ryu
 
 ## About this repository:
