@@ -6,9 +6,9 @@ Syllabus:
 
 ### **Note pages:**
 
-[Overview](Software%20Engineering%20bb14707018be4b0784cdd8f7ec977ed6/Overview%20602983f3bfa8484981891f34f649fa3d.md)
+[Overview](Software%20Engineering%20bb14707018be4b0784cdd8f7ec977ed6/Overview%20602983f3bfa8484981891f34f649fa3d.md) (7/5)
 
-[Software Requirements](Software%20Engineering%20bb14707018be4b0784cdd8f7ec977ed6/Software%20Requirements%2005293ad325494182bb290889e868d94a.md)
+[Software Requirements](Software%20Engineering%20bb14707018be4b0784cdd8f7ec977ed6/Software%20Requirements%2005293ad325494182bb290889e868d94a.md) (7/6)
 
 [CICD and toolchain](Software%20Engineering%20bb14707018be4b0784cdd8f7ec977ed6/CICD%20and%20toolchain%20964713ac799148738cc7725646267c02.md)
 
