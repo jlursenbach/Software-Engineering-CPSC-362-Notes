@@ -2,6 +2,7 @@
 Notes repository for CPSC 362 Software Engineering course with Dr. Christopher Ryu
 ## [CLICK HERE TO OPEN THE NOTEBOOK](https://github.com/jlursenbach/software-engineering-CPSC-362-Notes/blob/main/Notebook%20CPSC%20362%20Software%20Engineering/Software%20Engineering%20CPSC%20362.md)
 
+[<img src="https://user-images.githubusercontent.com/61986930/177938731-288b5ce0-71fc-4d57-a525-9392aeed0296.png" width="600">](https://github.com/jlursenbach/software-engineering-CPSC-362-Notes/blob/main/Notebook%20CPSC%20362%20Software%20Engineering/Software%20Engineering%20CPSC%20362.md)
 
 ## About this repository:
 The purpose of this repository is to act as a resource and record of the materials
